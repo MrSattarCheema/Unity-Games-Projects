@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f93a5090c4efc4c4696eb8807b1aafc2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tripleShotContainer: {fileID: 549973131927687216, guid: 48a2130104ceece4a91ee1c3224b4fca, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
